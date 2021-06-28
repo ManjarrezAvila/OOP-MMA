@@ -1,0 +1,18 @@
+Challenge 1: Objects identification
+
+Objective: to identify the objects in a problem. The problem will be the adoption system of a cat.
+
+If someone want to adop a pet, such as a cat they need:
+
+1. Identify the adoption center of your choice and go
+2. Choose the cat that will join your family based on the atributes that you want in a companion 
+3. Create an user in your adoption center for them to keep record and follow up
+4. Bring it home home with you
+
+
+Objects:
+Adoption center
+Cat
+adoptive family
+
+Number of objects: 3
