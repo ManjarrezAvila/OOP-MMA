@@ -1,3 +1,3 @@
 class Contribution {
-    Integer id;
+    String id;
 }

@@ -1,3 +1,3 @@
 class Pet {
-    String pettype;
+    String AvailablePet;
 }
