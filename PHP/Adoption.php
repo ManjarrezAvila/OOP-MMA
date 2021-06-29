@@ -1,5 +1,5 @@
 <?php
 class Adoption {
-    public $id = '';
+    public $id;
 }
 ?>
