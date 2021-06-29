@@ -1,3 +1,0 @@
-class Adoption:
-    id = int
-    
