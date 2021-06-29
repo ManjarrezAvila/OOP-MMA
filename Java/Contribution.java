@@ -1,0 +1,3 @@
+class Contribution {
+    Integer id;
+}

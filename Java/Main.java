@@ -12,5 +12,7 @@ class Main {
         lilcat.color = "black";
         lilcat.age = 1;
         lilcat.printDataPet();
+
+        
     }
 }
