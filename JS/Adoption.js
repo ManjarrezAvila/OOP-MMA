@@ -1,3 +1,0 @@
-function Adoption() {
-    this.id;
-}
