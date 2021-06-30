@@ -1,20 +1,18 @@
 public class Pet {
-    String pettype;
-    Integer id;
+    String species;
+    String id;
     String name;
     String size;
     String color;
-    Integer age;
+    String age;
 
-    public Pet(String pettype, Integer id, String name){
-        this.pettype = pettype;
-        this.id = id;
-        this.name = name;
+    public Pet(String species){
+        this.species = species;
 
     }
 
     void printDataPet() {
-        System.out.println("Pet type: " + pettype + " ID: " + id + " Name: " + name);
-        System.out.println("Size: " + size + " Color: " + color + " Age: " + age);
+        System.out.println("Species: " + species);
+        System.out.println(" ID: " + id + " Name: " + name);
     }
 }

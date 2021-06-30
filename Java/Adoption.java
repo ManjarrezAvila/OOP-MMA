@@ -1,3 +1,5 @@
 public class Adoption {
-    String id;
+    AdoptiveFamily family;
+    Pet newpet;
+    Contribution aportation;
 }

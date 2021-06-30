@@ -1,3 +1,8 @@
 class Contribution {
-    String id;
+    String date;
+
+    public Contribution(String date){
+        this.date = date;
+    }
+
 }
