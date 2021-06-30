@@ -1,17 +1,13 @@
 Challenge 1: Objects identification
 
-Objective: to identify the objects in a problem. The problem will be 
-the adoption system of a dog.
+Objective: to identify the objects in a problem. The problem will be the adoption system of a dog.
 
 If someone want to adop a pet, such as a dog they need:
 
 1. Identify the adoption center of your choice and go
-2. Choose the dog that will join your family based on the atributes 
-that you want in a companion 
-3. Create an user in your adoption center for them to keep record and 
-follow up
-4. Make a contribution to your adoption center. You can give either 
-product or cash
+2. Choose the dog that will join your family based on the atributes that you want in a companion 
+3. Create an user in your adoption center for them to keep record and follow up
+4. Make a contribution to your adoption center. You can give either product or cash
 5. Bring it home home with you
 
 
@@ -25,3 +21,4 @@ Product
 Adoption
 
 Number of objects: 7
+
